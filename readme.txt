@@ -1,0 +1,1 @@
+I couldn't upload because the gif file size exceeded 25 mb, I had to add the video version

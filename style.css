@@ -1,0 +1,51 @@
+* {
+    font-family: sans-serif,arial,Helvetica;
+}
+
+.nav-link{
+    border-radius: 10px;
+}
+
+.nav-link:Hover {
+    background-color: khaki;
+}
+
+.resimSlider {
+    height: 569px;
+}
+
+.ayrac {
+    background-color: #f2f2f2;
+    max-width: 250px;
+    border:none;
+    border-top: 5px solid black;
+    margin: 25px auto;
+}
+
+.igri {
+    font-size: 40px;
+    position: relative;
+    top: -52px;
+    border: 5px solid white;
+    background-color: white;
+}
+
+.ibeyaz {
+    font-size: 40px;
+    position: relative;
+    top: -60px;
+    border: 5px solid white;
+    background-color: white;
+}
+
+.iblack {
+    font-size: 40px;
+    position: relative;
+    top: -52px;
+    border: 5px solid white;
+    background-color: white;
+}
+
+.ekipcard img:hover {
+    opacity: 0.5;
+}
